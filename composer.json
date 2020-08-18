@@ -1,0 +1,19 @@
+{
+    "name": "dmrch/blogextension",
+    "type": "october-plugin",
+    "description": "Blog Extension Plugin",
+    "homepage": "https://github.com/angelodmrch/blogextension",
+    "keywords": ["october", "octobercms", "blog"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angelo Demarchi",
+            "email": "angelodmrch@gmail.com"
+        },
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    },
+    "minimum-stability": "dev"
+}
