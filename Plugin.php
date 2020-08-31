@@ -25,7 +25,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'Blog Extension',
             'description' => 'Extension for RainLab.Blog',
-            'author'      => 'Dmrch',
+            'author'      => 'Angelo Demarchi',
             'icon'        => 'icon-pencil'
         ];
     }
